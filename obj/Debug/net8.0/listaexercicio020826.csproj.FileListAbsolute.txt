@@ -1,0 +1,14 @@
+C:\Users\Anna\source\repos\listaexercicio020826\listaexercicio020826\bin\Debug\net8.0\listaexercicio020826.exe
+C:\Users\Anna\source\repos\listaexercicio020826\listaexercicio020826\bin\Debug\net8.0\listaexercicio020826.deps.json
+C:\Users\Anna\source\repos\listaexercicio020826\listaexercicio020826\bin\Debug\net8.0\listaexercicio020826.runtimeconfig.json
+C:\Users\Anna\source\repos\listaexercicio020826\listaexercicio020826\bin\Debug\net8.0\listaexercicio020826.dll
+C:\Users\Anna\source\repos\listaexercicio020826\listaexercicio020826\bin\Debug\net8.0\listaexercicio020826.pdb
+C:\Users\Anna\source\repos\listaexercicio020826\listaexercicio020826\obj\Debug\net8.0\listaexercicio020826.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anna\source\repos\listaexercicio020826\listaexercicio020826\obj\Debug\net8.0\listaexercicio020826.AssemblyInfoInputs.cache
+C:\Users\Anna\source\repos\listaexercicio020826\listaexercicio020826\obj\Debug\net8.0\listaexercicio020826.AssemblyInfo.cs
+C:\Users\Anna\source\repos\listaexercicio020826\listaexercicio020826\obj\Debug\net8.0\listaexercicio020826.csproj.CoreCompileInputs.cache
+C:\Users\Anna\source\repos\listaexercicio020826\listaexercicio020826\obj\Debug\net8.0\listaexercicio020826.dll
+C:\Users\Anna\source\repos\listaexercicio020826\listaexercicio020826\obj\Debug\net8.0\refint\listaexercicio020826.dll
+C:\Users\Anna\source\repos\listaexercicio020826\listaexercicio020826\obj\Debug\net8.0\listaexercicio020826.pdb
+C:\Users\Anna\source\repos\listaexercicio020826\listaexercicio020826\obj\Debug\net8.0\listaexercicio020826.genruntimeconfig.cache
+C:\Users\Anna\source\repos\listaexercicio020826\listaexercicio020826\obj\Debug\net8.0\ref\listaexercicio020826.dll
